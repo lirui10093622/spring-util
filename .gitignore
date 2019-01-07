@@ -1,0 +1,47 @@
+/.idea/*
+.DS_Store
+.captures
+**/git.properties
+
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+target/
+
+# Android Studio
+*.iml
+.idea
+.gradle
+build/
+
+#NDK
+obj/
+
+作者：追风917
+链接：http://www.jianshu.com/p/55a8c7ee1c3f
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
